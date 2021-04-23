@@ -1,6 +1,6 @@
 # Week-6-7-NBA-Salaries-Project
 
-https://mybinder.org/v2/gh/wallywanderlust/Week-6-7-NBA-Salaries-Project/main?filepath=nbaproject%20resume.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wallywanderlust/Week-6-7-NBA-Salaries-Project/main?filepath=nbaproject%20resume.ipynb)
 
 The goal of this project is to analyze the stats from the 2020-2021 NBA season and construct the most accurate predictive model for whether or not players made above the league average salary of $7,689,656 based only on a players stats. The stats were taken from the beginning of the 2020-2021 season up until April 6th. Players excluded from these datasets were players who did not play during the 2020-2021 season or who had no salary information available. Our statistics were taken from basketballreference.com.
 
