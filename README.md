@@ -1,4 +1,4 @@
-# Week-6-7-NBA-Salaries-Project
+# Predictive Analytics Project (NBA Salaries)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wallywanderlust/Week-6-7-NBA-Salaries-Project/main?filepath=nbaproject%20resume.ipynb)
 
